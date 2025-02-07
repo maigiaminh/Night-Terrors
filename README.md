@@ -1,7 +1,7 @@
 # 👻 Night-Terrors | 3D Horror Game
 
-![GitHub repo size](https://img.shields.io/github/repo-size/maigiaminh/3D-Horror-Game?color=blue&style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/maigiaminh/3D-Horror-Game?color=green&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/maigiaminh/Night-Terrors?color=blue&style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/maigiaminh/Night-Terrors?color=green&style=flat-square)
 
 📌 **An immersive survival horror experience inspired by "Five Nights at Freddy’s". Players must navigate an eerie, abandoned facility while outsmarting AI-controlled enemies and uncovering hidden secrets.**
 
