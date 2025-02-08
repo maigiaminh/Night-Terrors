@@ -38,13 +38,20 @@
 
 ## 📸 Screenshots
 
+### 🚪 Menu Game
+
+![Menu Screenshot](https://raw.githubusercontent.com/maigiaminh/Night-Terrors/main/assets/images/menu.png)
+
 ### 🎮 Gameplay View
 
-![Game Screenshot](https://yourimageurl.com)
+![Game Screenshot](https://raw.githubusercontent.com/maigiaminh/Night-Terrors/main/assets/images/gameplay.png)
 
 ### 🏚️ Haunted Facility Environment
 
-![Environment Screenshot](https://yourimageurl.com)
+![Environment Screenshot](https://raw.githubusercontent.com/maigiaminh/Night-Terrors/main/assets/images/haunted-facility.png)
+
+### 👻 Jump Scare
+![Jump Scare Screenshot](https://raw.githubusercontent.com/maigiaminh/Night-Terrors/main/assets/images/jump-scare.png)
 
 ---
 
