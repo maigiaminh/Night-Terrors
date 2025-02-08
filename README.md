@@ -57,7 +57,7 @@
 
 ## 🎥 Video Demo
 
-[![Watch the video](https://img.youtube.com/vi/XYZ123456/maxresdefault.jpg)](https://www.youtube.com/watch?v=XYZ123456)
+[![Watch the video](https://img.youtube.com/vi/i59ZUhLkTQ8/maxresdefault.jpg)](https://www.youtube.com/watch?v=i59ZUhLkTQ8)
 
 ---
 
